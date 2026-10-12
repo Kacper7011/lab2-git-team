@@ -1,5 +1,5 @@
 # Zespół
-Nazwa zespołu: gitownia
+Nazwa zespołu: Kukurydzniki
 ## Skład
 Kacper Siemieniako
 ## Motto
