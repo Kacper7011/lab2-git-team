@@ -4,5 +4,6 @@ Nazwa zespołu: kukuryniarze
 ## Skład
 Kacper Siemieniako
 ## Motto
+Pralki tworzą input laga
 ## Ulubione technologie
 kukiriny
