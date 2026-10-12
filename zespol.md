@@ -4,5 +4,6 @@ Nazwa zespołu: kukuryniarze
 ## Skład
 Kacper Siemieniako
 ## Motto
+dobry kebab to tani kebab
 ## Ulubione technologie
 kukiriny
