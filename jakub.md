@@ -4,5 +4,5 @@ lubie kebab i pizze
 kupie opla
 ## hobby
 jedzenie
-kukuryny
+kukirin G4
 izibust
