@@ -1,0 +1,1 @@
+chce nauczyć się byc gitem
