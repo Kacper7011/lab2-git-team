@@ -7,3 +7,5 @@ Kacper Siemieniako
 dobry kebab to tani kebab
 ## Ulubione technologie
 kukiriny
+## Data zajęć
+19.04.2004
